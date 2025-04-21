@@ -1,5 +1,3 @@
-# Blinkit-Grocery-Sales-Analysis-Dashborad-Using-Power-Bi
-This Power BI dashboard shows Blinkit's sales, customer trends, and outlet performance with easy-to-understand charts and key numbers. It helps improve operations and increase revenue.
 # Blinkit Grocery Sales Analysis (Interactive Dashboard Using Power BI)
 
 ## 📌 Project Objective
@@ -7,9 +5,6 @@ The goal of this project is to analyze Blinkit grocery sales data to:
 - Identify sales trends across different outlets and locations.
 - Understand the impact of item attributes like fat content, type, and visibility on sales.
 - Provide actionable insights to optimize inventory and improve revenue.
-
-## 🗃️ Dataset Used
-**Blinkit Grocery Dataset**
 
 ## 📊 KPI’s / Questions Answered
 - What is the total sales revenue across all outlets?
@@ -48,10 +43,4 @@ The goal of this project is to analyze Blinkit grocery sales data to:
 Sales vary significantly based on outlet type, size, and location, indicating the need for customized strategies. Product visibility and category have a strong impact on revenue. Prioritizing popular items and leveraging trends from older high-performing outlets can optimize performance across all store types.
 
 ---
-
-📁 **Files Included**:
-- `Blinkit_report.pbix` – Power BI dashboard file
-- `BlinkIt Grocery Data.csv` – Raw dataset
-
-📎 **Created By**: [Pratik Surya](https://github.com/Pratiksurya28)
 
